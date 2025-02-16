@@ -1,4 +1,4 @@
-// app/page.tsx (Client Component)
+
 'use client';
 
 import ApiKeyDialog from '@/components/ApiKeyDialog';
